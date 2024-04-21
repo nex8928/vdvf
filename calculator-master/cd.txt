@@ -1,0 +1,6 @@
+Clone the repository
+Open the project directory in your shell
+Generate the lexer, using lex calculator.l
+Generate the parser, using yacc calculator.y
+Compile the program, using gcc y.tab.c -ly -ll -lm -o calculator (feel free to use a different compiler)
+Run the program using ./calculator
